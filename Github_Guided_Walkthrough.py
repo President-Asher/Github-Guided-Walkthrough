@@ -7,3 +7,6 @@ if type_1 == 'Yes':
     print("We are now friends forever.")
 elif type_1 == 'No':
     spam()
+
+    ####
+    ###
